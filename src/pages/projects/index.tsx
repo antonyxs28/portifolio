@@ -1,3 +1,3 @@
 export function Projects() {
-  <div></div>;
+  return <div></div>;
 }

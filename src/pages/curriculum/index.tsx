@@ -1,3 +1,3 @@
 export function Curriculum() {
-  <div></div>;
+  return <div></div>;
 }
