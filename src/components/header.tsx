@@ -2,7 +2,7 @@ import { Home, Sun } from "lucide-react";
 
 export function Header() {
   return (
-    <div className="w-full h-40 bg-zinc-900 flex items-center justify-between px-10">
+    <div className="w-full h-40 bg-zinc-900 flex items-center justify-between z-10 px-10 fixed ">
       <div className="flex items-center gap-3">
         <Home/>
         <span className="text-2xl font-display font-semibold">
